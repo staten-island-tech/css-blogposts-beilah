@@ -1,0 +1,21 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+  box-sizing: border-box;
+  background-color: rgb(229, 231, 233);
+}
+
+.card {
+    width: 30%;
+    height: 500px;
+    margin: 25px 0;
+}
+
+.container {
+    width: 90vw;
+    margin: 30px auto;
+    display: flex;
+    border: aqua;
+}
